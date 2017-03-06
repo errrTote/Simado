@@ -1,0 +1,47 @@
+.panel-ingreso{
+  margin-top: 3em;
+  margin-left: 2em;
+  padding: 1em;
+}
+
+.bodyLogin{
+  background:url(../img/fondo.jpg);
+  background-position: center center;
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-position:absolute;
+}
+
+.logopdvsa{ 
+	padding: 0.5em; 
+}
+
+.content_login{
+  height: 14em;
+  margin-top: 5em;
+}
+
+.content_info{
+  height: 6em;
+  margin-top: 8em;
+  background-color: #fff;
+  border-radius: 1em;
+}
+
+.panel-ingreso .panel-footer{
+  border-top: solid 2px #e4e4e4;
+  background-color: #fff;
+  margin-top: 1em;
+  padding-top: 5px;
+}
+
+.panel-ingreso .panel-heading{
+  margin-bottom: 1em;
+  padding: 0px;
+  border-bottom: solid 2px #e4e4e4;
+}
+
+.alertasLogin{
+	margin-top: 3px;
+}
+
